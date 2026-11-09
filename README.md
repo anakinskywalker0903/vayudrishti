@@ -5,7 +5,7 @@
 > **Theme:** Breathe Better — Technology for Cleaner Air  
 > **Developer:** Rohit Dubey ([@anakinskywalker0903](https://github.com/anakinskywalker0903))  
 > **Repository:** [https://github.com/anakinskywalker0903/letcodediwali](https://github.com/anakinskywalker0903/letcodediwali)  
-> **Live Demo:** Deployed on Vercel / Netlify  
+> **Live Demo:** Deployed on Vercel 
 
 ---
 
