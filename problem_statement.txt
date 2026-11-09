@@ -1,0 +1,159 @@
+﻿LETS CODE DIWALI CHALLENGE 2026 🪔  
+BREATHE BETTER: Build a Real-Time Air Quality Intelligence Platform
+Theme: Technology for Cleaner Air
+* Duration:  8 Nov to 9 Nov, 11:59 PM
+* Participation: Individual Only
+* Eligibility: Open to Everyone
+* Prize Pool: ₹3,500
+* Certificates: For All Eligible Participants
+1. Problem Statement
+Air pollution is a growing environmental challenge. People often lack accessible information about the quality of air they breathe, pollution hotspots, changing pollution levels and appropriate precautions.
+Your task is to build a Real-Time Air Quality Intelligence Platform using authentic public APIs to monitor, visualize and analyze air pollution.
+The platform should help people understand air quality, explore pollution levels across different locations, track historical changes and make informed decisions about outdoor activities.
+The goal is to turn raw environmental data into meaningful, accessible and actionable insights.
+2. API Integration (Mandatory)
+Integrate at least one authentic, publicly available air quality API to fetch real-world data.
+Requirements:
+* Fetch real-world air quality measurements.
+* Display AQI and available pollutant concentrations.
+* Show the data source and last updated timestamp.
+* Handle API failures, missing data and rate limits.
+* Secure API credentials using environment variables.
+* Clearly distinguish actual measurements from forecasts and estimates.
+Important: Hardcoded or fabricated AQI values must not be presented as live data.
+3. Mandatory Features
+A. Live AQI Dashboard
+* Display real-time AQI.
+* Show PM2.5, PM10, NO2, SO2, CO and O3 wherever available.
+* Display pollution severity categories.
+* Show last updated timestamp.
+* Provide an easy-to-understand dashboard.
+B. Interactive Air Quality Map
+* Display pollution levels on an interactive map.
+* Use color-coded AQI indicators.
+* Allow users to explore different locations.
+* Show detailed AQI information when selecting a location.
+* Highlight pollution hotspots.
+C. Historical Pollution Tracker
+* Compare air quality across different dates.
+* Display historical AQI charts.
+* Compare PM2.5 and PM10 levels.
+* Show daily pollution trends.
+* Calculate percentage increases or decreases.
+* Highlight pollution spikes.
+D. Location Comparison
+* Allow users to compare multiple locations.
+* Display AQI and pollutant differences.
+* Visualize historical trends.
+* Identify locations with relatively better air quality using available measurements.
+E. Health & Safety Dashboard
+* Explain AQI categories and their meaning.
+* Provide general health precautions.
+* Display outdoor activity recommendations.
+* Highlight precautions for sensitive groups.
+* Explain the impact of PM2.5 and PM10.
+F. AQI Forecast
+* Display forecasted air quality.
+* Show expected pollution trends.
+* Highlight potential pollution spikes.
+* Clearly distinguish forecasts from actual readings.
+4. Bonus Features
+Extra Points
+1. AI AQI Assistant: Chatbot that explains pollution levels and answers AQI-related questions.
+2. Smart AQI Alerts: Notify users when AQI crosses user-defined thresholds.
+3. ML-Based Prediction: Predict future AQI using historical pollution and weather data.
+4. Pollution Heatmap: Visualize pollution intensity across different locations.
+5. Location-Based AQI: Detect user location and display nearby air quality.
+6. Clean Air Finder: Identify relatively cleaner locations using available monitoring data.
+7. AQI Sharing Cards: Generate shareable pollution reports for social media.
+8. Pollution Impact Report: Generate automated historical pollution analysis.
+9. Pollution Leaderboard: Rank locations based on air quality.
+10. Voice Assistant: Allow users to ask questions about air pollution.
+11. Anomaly Detection: Detect unusual spikes in pollution measurements.
+12. Multi-API Integration: Combine multiple authentic public data sources.
+13. AI Insights: Generate understandable summaries of pollution trends.
+
+
+5. Eligibility Criteria
+Open to Everyone
+* Students from any college or university can participate.
+* Working professionals and software developers are welcome.
+* Freelancers and independent developers can participate.
+* Beginners and experienced developers are equally welcome.
+* Tech enthusiasts from anywhere in the world can participate.
+* No specific programming language or framework is required.
+* Participation is strictly individual.
+* Each participant must submit their own project.
+No educational qualification, professional experience or college affiliation is required.
+6. Submission Requirements
+Every participant must submit:
+1. Project name and description.
+2. Live deployed application URL.
+3. Public GitHub repository.
+4. README with project setup instructions.
+5. Public APIs integrated into the project.
+6. Application screenshots.
+7. Demo video of 2 to 3 minutes.
+8. List of implemented mandatory and bonus features.
+Submit Your Project - https://forms.gle/8ck7stXe8W61U2t88
+Ensure your GitHub repository, deployed application and demo video are accessible before submitting.
+7. Evaluation Criteria
+Criteria
+	Weight
+	Functionality and implementation
+	25%
+	API integration and data accuracy
+	20%
+	UI/UX and user experience
+	15%
+	Real-world impact
+	15%
+	Innovation and creativity
+	10%
+	Bonus features
+	10%
+	Documentation and deployment
+	5%
+	Total
+	100%
+	8. Prizes & Recognition
+🏆 Total Prize Pool: ₹3,500
+🥇
+1st Prize
+₹2,000
+🥈
+2nd Prize
+₹1,000
+🥉
+3rd Prize
+₹500
+Participation Certificates
+Every eligible participant who completes the challenge and submits a valid project will receive a certificate of participation.
+Additional Recognition:
+* Best AI/ML Implementation.
+* Best UI/UX Design.
+* Most Innovative Solution.
+* Winning projects featured across Lets Code platforms.
+* Special community recognition.
+10. Rules & Guidelines
+1. Participation is strictly individual.
+2. The challenge is open to everyone.
+3. Projects must be developed during the challenge period.
+4. Any programming language or framework is allowed.
+5. AI coding assistants are permitted.
+6. At least one authentic public API integration is compulsory.
+7. Projects must be deployed and publicly accessible.
+8. Open-source libraries and frameworks are allowed.
+9. All data sources must be credited.
+10. Fabricated data presented as real measurements will lead to disqualification.
+11. Clearly label forecasts, estimates and historical data.
+12. Participants must submit their own original implementation.
+13. Only valid submissions will be considered for evaluation and certificates.
+11. What We Expect
+We aren't looking for another static AQI dashboard.
+We want a functional product that turns real-world air quality data into meaningful insights.
+Build something people can actually use to understand pollution, identify environmental risks and make informed decisions.
+Think beyond the basic requirements. Experiment with AI, APIs, maps, data visualization and innovative solutions.
+BREATHE BETTER. BUILD SMARTER.
+This Diwali, let your code make a difference. 🪔
+For any doubts contact: letscode@lets-code.co.in

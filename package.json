@@ -1,0 +1,38 @@
+{
+  "name": "vayudrishti-air-intelligence",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Rohit Dubey <rohitdubey39005@gmail.com>",
+  "description": "VayuDrishti (वायु दृष्टि) — Real-Time Air Quality Intelligence & Diwali Smog Advisory Platform. Built for Lets Code Diwali Challenge 2026.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.4",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^1.16.0",
+    "matter-js": "^0.20.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "recharts": "^3.8.0",
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/leaflet": "^1.9.21",
+    "@types/matter-js": "^0.20.2",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@types/three": "^0.187.0",
+    "@vitejs/plugin-react": "^6.0.0",
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^3.4.17",
+    "typescript": "~5.9.3",
+    "vite": "^8.3.6"
+  }
+}
